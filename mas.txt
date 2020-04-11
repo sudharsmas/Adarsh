@@ -1,0 +1,8 @@
+mood = inport("enter the mood')
+if mood == "romance":
+  print("kiss")
+  print("hug")
+  print("bite me")
+ else
+ print ("wtf")
+
