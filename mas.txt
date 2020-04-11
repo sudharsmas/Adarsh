@@ -4,5 +4,5 @@ if mood == "romance":
   print("hug")
   print("bite me")
  else
- print ("wtf")
-
+  print("wtf")
+  print("go to hell")
